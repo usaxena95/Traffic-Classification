@@ -7,7 +7,7 @@ import org.jnetpcap.Pcap;
 import org.jnetpcap.packet.PcapPacket;
 
 public class OfflinePacket {
-	HashMap<String, List<PcapPacket>> cache = new HashMap<String, List<PcapPacket>>();
+	static HashMap<String, List<PcapPacket>> cache = new HashMap<String, List<PcapPacket>>();
 
 	public List<PcapPacket> read(final String captureFile, final int maxPackets) {
 
