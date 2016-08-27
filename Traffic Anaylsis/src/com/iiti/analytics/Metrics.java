@@ -10,13 +10,16 @@ import java.util.List;
 import org.jnetpcap.packet.PcapPacket;
 import org.jnetpcap.packet.format.FormatUtils;
 import org.jnetpcap.protocol.network.Ip4;
+import org.jnetpcap.protocol.tcpip.Tcp;
+import org.jnetpcap.protocol.tcpip.Udp;
 
-import com.iiti.reader.OfflinePacket;
+import com.iiti.reader.OfflinePacketReader;
 
 public class Metrics {
 	PrintWriter output;
-
+	String fileName;
 	public Metrics(String fileName) {
+		this.fileName = fileName;
 		try {
 			output = new PrintWriter(new BufferedWriter(new FileWriter(
 					new File(fileName))));
@@ -52,8 +55,8 @@ public class Metrics {
 	}
 
 	public void packetLenthVsFrequency(String packetFileName, int numberOfBlocks) {
-		System.out.println("prcoessing " + packetFileName);
-		OfflinePacket offline = new OfflinePacket();
+		System.out.println("\nprcoessing pac len frequency\n" + packetFileName);
+		OfflinePacketReader offline = new OfflinePacketReader();
 
 		List<PcapPacket> packets = offline.read(packetFileName);
 		int maxPacketSize = 0;
@@ -76,10 +79,37 @@ public class Metrics {
 		display(frequency, packetFileName, blockSize);
 	}
 
+	public void ratioTransportLayerHeader(String packetFileName) {
+		System.out.println("\nprcoessing Transport Layer Headersfor\n"
+				+ packetFileName);
+		OfflinePacketReader offline = new OfflinePacketReader();
+
+		List<PcapPacket> packets = offline.read(packetFileName);
+		Tcp tcp = new Tcp();
+		Udp udp = new Udp();
+		int tcpOccurence = 0;
+		int udpOccurence = 0;
+		for (PcapPacket packet : packets) {
+			if (packet.hasHeader(tcp)) {
+				++tcpOccurence;
+			}
+			if(packet.hasHeader(udp)){
+				++udpOccurence;
+			}
+		}
+		double total = udpOccurence + tcpOccurence;
+		output.println("************************************");
+		output.println("Tcp Udp Ratio for file = \n");
+		output.println(packetFileName);
+		output.println("Tcp = " + tcpOccurence + "\t(" + (100.0 * tcpOccurence/total)+"%)");
+		output.println("Ucp = " + udpOccurence + "\t(" + (100.0 * udpOccurence/total)+"%)");
+		output.println("\n\n");
+	}
+
 	void somethin() {
 
 		String packetFileName = "";
-		OfflinePacket offline = new OfflinePacket();
+		OfflinePacketReader offline = new OfflinePacketReader();
 		List<PcapPacket> packets = offline.read(packetFileName);
 		Ip4 ip = new Ip4();
 		for (PcapPacket packet : packets) {
@@ -94,7 +124,7 @@ public class Metrics {
 	}
 
 	public void close() {
-		System.out.println("done");
+		System.out.println(fileName + " done");
 		output.close();
 	}
 }

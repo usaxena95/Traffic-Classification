@@ -1,0 +1,99 @@
+************************************
+Tcp Udp Ratio for file = 
+
+packets/Skype/All_Packets/login + call + msg(19-07-2016) (user = Utkarsh).pcapng
+Tcp = 2	(0.11534025374855825%)
+Ucp = 1732	(99.88465974625144%)
+
+
+
+************************************
+Tcp Udp Ratio for file = 
+
+packets/Skype/All_Packets/Login+idle 25-8-16 1:09 AM.pcapng
+Tcp = 341	(37.93103448275862%)
+Ucp = 558	(62.06896551724138%)
+
+
+
+************************************
+Tcp Udp Ratio for file = 
+
+packets/Skype/Before_Login/OpeningSkype_23_08_2016_2_56.pcapng
+Tcp = 122	(85.91549295774648%)
+Ucp = 20	(14.084507042253522%)
+
+
+
+************************************
+Tcp Udp Ratio for file = 
+
+packets/Skype/Before_Login/OpeningSkype_25-08-2016_12:47AM.pcapng
+Tcp = 223	(73.84105960264901%)
+Ucp = 79	(26.158940397350992%)
+
+
+
+************************************
+Tcp Udp Ratio for file = 
+
+packets/Skype/Call/Not_Connected/CallnotConnected_23_08_2016_2_38.pcapng
+Tcp = 45	(53.57142857142857%)
+Ucp = 39	(46.42857142857143%)
+
+
+
+************************************
+Tcp Udp Ratio for file = 
+
+packets/Skype/Call/Not_Connected/call not connected 25-8-16 1:13AM.pcapng
+Tcp = 90	(33.088235294117645%)
+Ucp = 182	(66.91176470588235%)
+
+
+
+************************************
+Tcp Udp Ratio for file = 
+
+packets/Skype/Idle/Idle_23_08_2016_2_53.pcapng
+Tcp = 63	(82.89473684210526%)
+Ucp = 13	(17.105263157894736%)
+
+
+
+************************************
+Tcp Udp Ratio for file = 
+
+packets/Skype/Idle/IDLE_23_08_2016_3_12.pcapng
+Tcp = 850	(73.27586206896552%)
+Ucp = 310	(26.724137931034484%)
+
+
+
+************************************
+Tcp Udp Ratio for file = 
+
+packets/Skype/Login/login (19-7-16)(user = Utkarsh).pcapng
+Tcp = 2	(1.5151515151515151%)
+Ucp = 130	(98.48484848484848%)
+
+
+
+************************************
+Tcp Udp Ratio for file = 
+
+packets/Skype/Login/Login_23_08_2016_2_45.pcapng
+Tcp = 235	(62.3342175066313%)
+Ucp = 142	(37.6657824933687%)
+
+
+
+************************************
+Tcp Udp Ratio for file = 
+
+packets/Skype/Messages/not sent 25-08-16 1:20AM.pcapng
+Tcp = 102	(37.09090909090909%)
+Ucp = 173	(62.90909090909091%)
+
+
+
