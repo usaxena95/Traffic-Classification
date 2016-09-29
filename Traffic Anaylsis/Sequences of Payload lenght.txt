@@ -1,0 +1,280 @@
+************************************************************************
+Pattern of Payload to search = 3, 10, -4, -2, 
+File name=	packets/Idle_24-9-2016.pcapng
+total number of packets = 1160
+The pattern was found at followig intervals
+47, 95, 205, 251, 313, 369, 380, 441, 
+Total Number of distinct Occurrences = 8
+
+
+
+************************************************************************
+Pattern of Payload to search = 3, 10, -4, -2, 
+File name=	packets/idle 27-9-16 fullnight (us).pcapng
+total number of packets = 3236
+The pattern was found at followig intervals
+91, 159, 232, 299, 340, 382, 500, 519, 560, 574, 622, 751, 763, 805, 821, 831, 904, 952, 968, 1012, 1030, 1082, 1115, 1241, 1260, 1301, 1316, 1338, 1383, 1399, 1414, 1539, 1568, 1715, 1748, 1796, 1819, 1891, 1933, 1959, 2022, 2053, 2122, 2219, 2244, 2283, 2310, 2396, 2412, 2435, 2465, 2523, 2556, 2641, 2692, 2753, 2811, 2850, 2869, 2914, 2928, 3011, 3097, 3120, 3134, 3157, 3228, 
+Total Number of distinct Occurrences = 67
+
+
+
+************************************************************************
+Pattern of Payload to search = 3, 10, -4, -2, 
+File name=	packets/idle 27-9-2016 full night (teekaram).pcapng
+total number of packets = 13112
+The pattern was found at followig intervals
+77, 162, 275, 381, 435, 499, 525, 582, 638, 777, 849, 905, 929, 996, 1148, 1394, 1446, 1472, 1514, 1548, 1625, 1711, 1812, 1828, 1888, 1917, 1984, 2060, 2117, 2136, 2150, 2212, 2251, 2275, 2353, 2452, 2517, 2553, 2592, 2692, 2722, 2752, 2804, 2827, 2858, 2936, 2969, 3102, 3154, 3236, 3278, 3329, 3357, 3383, 3416, 3557, 3701, 3787, 3826, 3848, 3875, 3969, 4015, 4129, 4188, 4212, 4266, 4277, 4515, 4526, 4559, 4686, 5490, 5559, 5647, 5712, 5720, 5902, 12251, 12280, 12409, 12453, 12473, 12507, 12612, 12819, 12859, 12905, 12947, 13042, 13071, 13094, 
+Total Number of distinct Occurrences = 92
+
+
+
+************************************************************************
+Pattern of Payload to search = 3, 10, -4, -2, 
+File name=	packets/idle 28-9-16 full nighht (us).pcapng
+total number of packets = 19159
+The pattern was found at followig intervals
+700, 824, 923, 992, 4546, 4711, 4814, 4948, 15117, 15251, 15325, 15454, 15537, 15584, 15716, 15812, 15878, 16007, 16045, 16146, 16209, 16439, 16633, 16684, 16722, 16758, 16946, 16981, 17077, 17170, 17273, 17387, 17422, 17500, 17612, 17711, 17806, 17995, 18060, 18099, 18161, 18271, 19107, 19145, 
+Total Number of distinct Occurrences = 44
+
+
+
+************************************************************************
+Pattern of Payload to search = 3, 10, -4, -2, 
+File name=	packets/idle 29-9-2016 full night (us).pcapng
+total number of packets = 14491
+The pattern was found at followig intervals
+940, 985, 1071, 1115, 1166, 1201, 1220, 1277, 1318, 1374, 1425, 1442, 1488, 1627, 1667, 1681, 1726, 1745, 1823, 1831, 1879, 1889, 1912, 1954, 1970, 2101, 2135, 2151, 2177, 2231, 2437, 2501, 2545, 2592, 2638, 2681, 2855, 2865, 2911, 2955, 2965, 3013, 3036, 3090, 3106, 3116, 3161, 3177, 3220, 3238, 3269, 13373, 13441, 13456, 13535, 13550, 13594, 13617, 13662, 13676, 13695, 13749, 13848, 13858, 13903, 13990, 13998, 14035, 14045, 14117, 14141, 14156, 14199, 14214, 14235, 14255, 14295, 14347, 14405, 14482, 
+Total Number of distinct Occurrences = 80
+
+
+
+************************************************************************
+Pattern of Payload to search = 3, 10, -4, -2, 
+File name=	packets/Login_24-9-2016.pcapng
+total number of packets = 607
+The pattern was found at followig intervals
+
+Total Number of distinct Occurrences = 0
+
+
+
+************************************************************************
+Pattern of Payload to search = 3, 10, -4, -2, 
+File name=	packets/Login_25-9-2016.pcapng
+total number of packets = 233
+The pattern was found at followig intervals
+
+Total Number of distinct Occurrences = 0
+
+
+
+************************************************************************
+Pattern of Payload to search = 5, -5, 
+File name=	packets/Idle_24-9-2016.pcapng
+total number of packets = 1160
+The pattern was found at followig intervals
+53, 196, 308, 381, 1148, 
+Total Number of distinct Occurrences = 5
+
+
+
+************************************************************************
+Pattern of Payload to search = 5, -5, 
+File name=	packets/idle 27-9-16 fullnight (us).pcapng
+total number of packets = 3236
+The pattern was found at followig intervals
+147, 248, 345, 446, 511, 583, 737, 807, 874, 944, 1004, 1042, 1045, 1113, 1244, 1304, 1373, 1405, 1406, 1475, 1560, 1605, 1733, 1799, 1846, 1936, 1987, 2045, 2178, 2228, 2297, 2354, 2423, 2477, 2548, 2651, 2720, 2767, 2830, 2868, 2871, 2940, 2987, 3118, 3146, 3149, 
+Total Number of distinct Occurrences = 46
+
+
+
+************************************************************************
+Pattern of Payload to search = 5, -5, 
+File name=	packets/idle 27-9-2016 full night (teekaram).pcapng
+total number of packets = 13112
+The pattern was found at followig intervals
+150, 306, 425, 523, 628, 712, 864, 961, 1114, 1405, 1504, 1593, 1701, 1835, 1929, 2046, 2139, 2219, 2296, 2380, 2519, 2584, 2694, 2765, 2849, 2928, 3082, 3165, 3256, 3349, 3406, 3505, 3662, 3813, 3878, 3972, 4097, 4210, 4279, 4382, 4517, 4646, 4724, 5619, 5690, 5739, 5882, 12272, 12372, 12445, 12509, 12604, 12656, 12847, 12907, 12993, 13073, 
+Total Number of distinct Occurrences = 57
+
+
+
+************************************************************************
+Pattern of Payload to search = 5, -5, 
+File name=	packets/idle 28-9-16 full nighht (us).pcapng
+total number of packets = 19159
+The pattern was found at followig intervals
+706, 866, 984, 1072, 1998, 2488, 3018, 3826, 4229, 4444, 4557, 4699, 4781, 4934, 4996, 5069, 15119, 15183, 15296, 15344, 15465, 15554, 15626, 15694, 15794, 15866, 15994, 16027, 16028, 16100, 16151, 16232, 16328, 16409, 16526, 16617, 16687, 16738, 16800, 16904, 16970, 17079, 17146, 17174, 17177, 17247, 17279, 17282, 17395, 17428, 17430, 17556, 17591, 17594, 17651, 17699, 17794, 17859, 17983, 18047, 18091, 18163, 18195, 18196, 18280, 18938, 19025, 19089, 19127, 19129, 
+Total Number of distinct Occurrences = 70
+
+
+
+************************************************************************
+Pattern of Payload to search = 5, -5, 
+File name=	packets/idle 29-9-2016 full night (us).pcapng
+total number of packets = 14491
+The pattern was found at followig intervals
+977, 1117, 1204, 1278, 1382, 1443, 1582, 1668, 1731, 1806, 1877, 1945, 1978, 1979, 2113, 2156, 2212, 2377, 2534, 2624, 2689, 2853, 2919, 2986, 3091, 3153, 3221, 3306, 13382, 13448, 13517, 13597, 13663, 13701, 13702, 13839, 13949, 14018, 14103, 14157, 14223, 14298, 14416, 
+Total Number of distinct Occurrences = 43
+
+
+
+************************************************************************
+Pattern of Payload to search = 5, -5, 
+File name=	packets/Login_24-9-2016.pcapng
+total number of packets = 607
+The pattern was found at followig intervals
+
+Total Number of distinct Occurrences = 0
+
+
+
+************************************************************************
+Pattern of Payload to search = 5, -5, 
+File name=	packets/Login_25-9-2016.pcapng
+total number of packets = 233
+The pattern was found at followig intervals
+
+Total Number of distinct Occurrences = 0
+
+
+
+************************************************************************
+Pattern of Payload to search = 4, 104, -4, -12, 4, 272, 
+File name=	packets/Idle_24-9-2016.pcapng
+total number of packets = 1160
+The pattern was found at followig intervals
+138, 1096, 
+Total Number of distinct Occurrences = 2
+
+
+
+************************************************************************
+Pattern of Payload to search = 4, 104, -4, -12, 4, 272, 
+File name=	packets/idle 27-9-16 fullnight (us).pcapng
+total number of packets = 3236
+The pattern was found at followig intervals
+440, 640, 888, 1212, 1463, 1588, 1841, 2067, 2344, 2711, 2827, 2964, 
+Total Number of distinct Occurrences = 12
+
+
+
+************************************************************************
+Pattern of Payload to search = 4, 104, -4, -12, 4, 272, 
+File name=	packets/idle 27-9-2016 full night (teekaram).pcapng
+total number of packets = 13112
+The pattern was found at followig intervals
+339, 695, 1083, 1653, 2019, 2291, 2565, 2881, 3251, 3498, 3936, 4348, 4643, 5755, 12360, 12671, 12976, 
+Total Number of distinct Occurrences = 17
+
+
+
+************************************************************************
+Pattern of Payload to search = 4, 104, -4, -12, 4, 272, 
+File name=	packets/idle 28-9-16 full nighht (us).pcapng
+total number of packets = 19159
+The pattern was found at followig intervals
+5061, 15650, 16113, 16391, 16555, 16886, 17143, 17234, 17572, 17675, 17871, 18185, 19047, 
+Total Number of distinct Occurrences = 13
+
+
+
+************************************************************************
+Pattern of Payload to search = 4, 104, -4, -12, 4, 272, 
+File name=	packets/idle 29-9-2016 full night (us).pcapng
+total number of packets = 14491
+The pattern was found at followig intervals
+1339, 1577, 1765, 1993, 2811, 3052, 3372, 13501, 13828, 14088, 14430, 
+Total Number of distinct Occurrences = 11
+
+
+
+************************************************************************
+Pattern of Payload to search = 4, 104, -4, -12, 4, 272, 
+File name=	packets/Login_24-9-2016.pcapng
+total number of packets = 607
+The pattern was found at followig intervals
+
+Total Number of distinct Occurrences = 0
+
+
+
+************************************************************************
+Pattern of Payload to search = 4, 104, -4, -12, 4, 272, 
+File name=	packets/Login_25-9-2016.pcapng
+total number of packets = 233
+The pattern was found at followig intervals
+
+Total Number of distinct Occurrences = 0
+
+
+
+************************************************************************
+Pattern of Payload to search = 41, -3, -144, 4, 
+File name=	packets/Idle_24-9-2016.pcapng
+total number of packets = 1160
+The pattern was found at followig intervals
+
+Total Number of distinct Occurrences = 0
+
+
+
+************************************************************************
+Pattern of Payload to search = 41, -3, -144, 4, 
+File name=	packets/idle 27-9-16 fullnight (us).pcapng
+total number of packets = 3236
+The pattern was found at followig intervals
+
+Total Number of distinct Occurrences = 0
+
+
+
+************************************************************************
+Pattern of Payload to search = 41, -3, -144, 4, 
+File name=	packets/idle 27-9-2016 full night (teekaram).pcapng
+total number of packets = 13112
+The pattern was found at followig intervals
+
+Total Number of distinct Occurrences = 0
+
+
+
+************************************************************************
+Pattern of Payload to search = 41, -3, -144, 4, 
+File name=	packets/idle 28-9-16 full nighht (us).pcapng
+total number of packets = 19159
+The pattern was found at followig intervals
+
+Total Number of distinct Occurrences = 0
+
+
+
+************************************************************************
+Pattern of Payload to search = 41, -3, -144, 4, 
+File name=	packets/idle 29-9-2016 full night (us).pcapng
+total number of packets = 14491
+The pattern was found at followig intervals
+
+Total Number of distinct Occurrences = 0
+
+
+
+************************************************************************
+Pattern of Payload to search = 41, -3, -144, 4, 
+File name=	packets/Login_24-9-2016.pcapng
+total number of packets = 607
+The pattern was found at followig intervals
+60, 
+Total Number of distinct Occurrences = 1
+
+
+
+************************************************************************
+Pattern of Payload to search = 41, -3, -144, 4, 
+File name=	packets/Login_25-9-2016.pcapng
+total number of packets = 233
+The pattern was found at followig intervals
+37, 
+Total Number of distinct Occurrences = 1
+
+
+

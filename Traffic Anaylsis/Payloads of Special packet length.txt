@@ -1,0 +1,48 @@
+************************************
+Special udp packet lengths
+packets/Idle_24-9-2016.pcapng
+
+
+
+total number of udp packets = 2115
+total number of special packets length = 173
+************************************
+Special udp packet lengths
+packets/idle 27-9-16 fullnight (us).pcapng
+
+
+
+total number of udp packets = 15351
+total number of special packets length = 90
+************************************
+Special udp packet lengths
+packets/idle 27-9-2016 full night (teekaram).pcapng
+
+
+
+total number of udp packets = 40893
+total number of special packets length = 5012
+************************************
+Special udp packet lengths
+packets/idle 28-9-16 full nighht (us).pcapng
+
+
+
+total number of udp packets = 43401
+total number of special packets length = 646
+************************************
+Special udp packet lengths
+packets/Login_24-9-2016.pcapng
+
+
+
+total number of udp packets = 714
+total number of special packets length = 71
+************************************
+Special udp packet lengths
+packets/Login_25-9-2016.pcapng
+
+
+
+total number of udp packets = 318
+total number of special packets length = 33

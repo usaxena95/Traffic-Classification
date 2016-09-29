@@ -12,7 +12,8 @@ public class OfflinePacketReader {
 	public List<PcapPacket> read(final String captureFile, final int maxPackets) {
 
 		if (cache.containsKey(captureFile)) {
-			cache.get(captureFile);
+			System.out.println("Pcap cache HIT for file " + captureFile);
+			return cache.get(captureFile);
 		}
 		StringBuilder errbuf = new StringBuilder();
 		Pcap pcap = Pcap.openOffline(captureFile, errbuf);
@@ -25,10 +26,11 @@ public class OfflinePacketReader {
 		pcap.close();
 
 		cache.put(captureFile, packetHandler.getPackets());
+		System.out.println("Pcap cache MISS");
 		return packetHandler.getPackets();
 	}
 
 	public List<PcapPacket> read(final String captureFile) {
-		return read(captureFile, 1000000000);
+		return read(captureFile, 50000);
 	}
 }
